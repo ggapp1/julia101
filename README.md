@@ -1,2 +1,2 @@
 # julia101
-Learning the basics of Julia
+Learning the basics of Julia 
